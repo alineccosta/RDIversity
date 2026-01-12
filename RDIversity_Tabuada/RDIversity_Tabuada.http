@@ -1,0 +1,6 @@
+@RDIversity_Tabuada_HostAddress = http://localhost:5221
+
+GET {{RDIversity_Tabuada_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
